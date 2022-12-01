@@ -5,6 +5,8 @@ Map Viewer on Scratch
 飯田（仮名）
 
 ## プログラムデータ
+以下のリンクをクリックするとダウンロードされます。
+
 [Map Viewer on Scratch](https://github.com/nara-coderdojo/gallery/raw/main/stretch3/Map_Viewer_on_Scratch/Map_Viewer_on_Scratch.sb3)
 
 ## 利用ツール
